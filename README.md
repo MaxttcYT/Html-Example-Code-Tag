@@ -4,7 +4,7 @@ Adds tags to make it easy bind code snippeds in your website
 An example:
 
 
-    <script src="CodeAPI.js"></script>
+    <script src="https://mods-code.github.io/Html-Example-Code-Tag/Main.js"></script>
 
     <examplecode lang=Python">
         Hello,
