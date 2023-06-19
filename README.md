@@ -6,12 +6,7 @@ An example:
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Benutzerdefinierter HTML-Tag</title>
-    <style>
-        body {
-            background-color: blue;
-        }
-    </style>
+
 </head>
 <body>
     <script src="CodeAPI.js"></script>
