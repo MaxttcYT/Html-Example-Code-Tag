@@ -21,5 +21,6 @@ An example:
     <examplecode lang="Documentary" width="1000px" height="200px" fontSize="15px" theme="light">
         Here in light mode.
     </examplecode>
-</body>
-</html>
+
+Example under:
+https://mods-code.github.io/Html-Example-Code-Tag/example.html
