@@ -3,12 +3,7 @@ Adds tags to make it easy bind code snippeds in your website
 
 An example:
 
-<!DOCTYPE html>
-<html>
-<head>
 
-</head>
-<body>
     <script src="CodeAPI.js"></script>
 
     <examplecode lang="python">
