@@ -19,10 +19,11 @@ window.addEventListener('DOMContentLoaded', function() {
     var script = document.createElement('script');
     script.textContent = `var preloader = document.getElementById("preloader");window.addEventListener("load", function(){preloader.style.display = "none";})`;
 
-    var script = document.createElement('svg');
-    script.textContent = `<circle cx="70" cy="70" r="70"></circle>`;
+    var svg = document.createElement('svg');
+    svg.textContent = `<circle cx="70" cy="70" r="70"></circle>`;
 
     document.head.appendChild(style);
+    document.head.appendChild(svg);
     document.head.appendChild(script);
 
     var exampleCodeTags = document.getElementsByTagName('Loader');
