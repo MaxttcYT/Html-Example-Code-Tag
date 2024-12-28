@@ -23,4 +23,4 @@ An example:
     </examplecode>
 
 Example under:
-https://mods-code.github.io/Html-Example-Code-Tag/example.html
+[https://mods-code.github.io/Html-Example-Code-Tag/example.html](https://code-tag.maxttc.me/example.html)
